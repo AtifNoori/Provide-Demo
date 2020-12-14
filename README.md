@@ -1,4 +1,4 @@
-# provide_demo
+# Provider Demo
 
 A new Flutter application.
 
